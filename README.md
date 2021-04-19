@@ -224,6 +224,11 @@ y Zonificaciones Agroecológicas Económicas 1:250000 </td>
 <td> <a href="http://geoportal.agricultura.gob.ec/tematicas/E250k/wfs?service=wfs&version=1.1.0&request=GetCapabilities">Inventario de Mapas Históricos 1:250000 </td>
 </tr>
 
+<tr>
+<td>  Municipio de Quito  </td>
+<td> <a href="http://geoportal.quito.gob.ec/smiq/ayuda.html"> Infraestructura de Datos Espaciales Distrital </td>
+</tr>
+
 
 
 
