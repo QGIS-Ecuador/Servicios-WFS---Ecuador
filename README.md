@@ -1,2 +1,2 @@
-# Servicios-WFS---Ecuador
+# Servicios-WFS-Ecuador
 Fuentes de datos espaciales
