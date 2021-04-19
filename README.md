@@ -19,11 +19,6 @@ Ecuador Web Feature Service 👩🏾‍💻
 
 <tr>
 <td>  Instituto Geográfico Militar  </td>
-<td> <a href="http://www.geoportaligm.gob.ec/nacional/wms">IGM Información Nacional </td>
-</tr>
-
-<tr>
-<td>  Instituto Geográfico Militar  </td>
 <td> <a href="http://www.geoportaligm.gob.ec/50k/igm/wfs?service=wfs&version=1.1.0&request=GetCapabilities">Información 1:50000 </td>
 </tr>
 
